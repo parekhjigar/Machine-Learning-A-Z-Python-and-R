@@ -26,13 +26,15 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 """from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
-X_test = sc_X.transform(X_test)"""
+X_test = sc_X.transform(X_test)
+sc_y = StandardScaler()
+y_train = sc.y.fit_transform(y_train)"""
 
 # Fitting the Regression Model to the dataset
 # Create your regressor here
 
 # Predicting a new result
-y_pred = regressor.predict(6.5)
+y_pred = regressor.predict([[6.5]])
 
 # Visualising the Regression results
 plt.scatter(X, y, color = 'red')
