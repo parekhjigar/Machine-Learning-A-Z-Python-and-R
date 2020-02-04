@@ -28,7 +28,7 @@ sc_X = StandardScaler()
 X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
 sc_y = StandardScaler()
-y_train = sc.y.fit_transform(y_train)"""
+y_train = sc_y.fit_transform(y_train)"""
 
 # Fitting the Regression Model to the dataset
 # Create your regressor here
