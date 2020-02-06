@@ -22,7 +22,7 @@ library(randomForest)
 set.seed(1234)
 regressor = randomForest(x = dataset[1],
                          y = dataset$Salary,
-                         ntree = 100)
+                         ntree = 500)
 
 
 # Predicting a new result
