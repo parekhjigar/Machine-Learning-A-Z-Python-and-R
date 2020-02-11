@@ -18,7 +18,7 @@ This repository contains all the codes and datasets to learn Machine Learning Al
 - [Logistic Regression](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/1.%20Logistic%20Regression)
 - [K-Nearest Neighbors (K-NN)](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/2.%20K-Nearest%20Neighbors%20(K-NN))
 - [Support Vector Machine (SVM)](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/3.%20Support%20Vector%20Machine%20(SVM))
-- [Kernel SVM] (https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/4.%20Kernel%20SVM)
+- [Kernel SVM](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/4.%20Kernel%20SVM)
 - [Naive Bayes](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/5.%20Naive%20Bayes)
 - [Decision Tree Classification](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/6.%20Decision%20Tree%20Classification)
 - [Random Forest Classification](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/3.%20Classification/7.%20Random%20Forest%20Classification)
