@@ -26,4 +26,4 @@ This repository contains all the codes and datasets to learn Machine Learning Al
 ### 4. [Clustering](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/4.%20Clustering)
 
 - [K-Means Clustering](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/4.%20Clustering/1.%20K-Means%20Clustering)
-
+- [Hierarchical Clustering](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/4.%20Clustering/2.%20Hierarchical%20Clustering)
