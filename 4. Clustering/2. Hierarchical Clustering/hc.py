@@ -15,9 +15,9 @@ import pandas as pd
 dataset = pd.read_csv('Mall_Customers.csv')
 X = dataset.iloc[:, [3,4]].values
 
-# Using the dendogram to find the optimal number of clusters
+# Using the dendrogram to find the optimal number of clusters
 import scipy.cluster.hierarchy as sch
-dendogram = sch.dendrogram(sch.linkage(X, method = 'ward'))
+dendrogram = sch.dendrogram(sch.linkage(X, method = 'ward'))
 plt.title('Dendrogram')
 plt.xlabel('Customers')
 plt.ylabel('Euclidean distances')
