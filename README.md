@@ -27,3 +27,7 @@ This repository contains all the codes and datasets to learn Machine Learning Al
 
 - [K-Means Clustering](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/4.%20Clustering/1.%20K-Means%20Clustering)
 - [Hierarchical Clustering](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/4.%20Clustering/2.%20Hierarchical%20Clustering)
+
+### 5. [Association Rule Learning](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning)
+
+- [Apriori](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning/1.%20Apriori)
