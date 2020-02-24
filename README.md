@@ -31,3 +31,4 @@ This repository contains all the codes and datasets to learn Machine Learning Al
 ### 5. [Association Rule Learning](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning)
 
 - [Apriori](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning/1.%20Apriori)
+- [Elcat](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning/2.%20Eclat)
