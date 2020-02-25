@@ -1,6 +1,6 @@
 # Machine Learning A-Z | SuperDataScience
 
-This repository contains all the codes and datasets to learn Machine Learning Algorithms in Python and R. Credits to Kirill Eremenko and Hadelin de Ponteves from SuperDataScience who designed the course  ["Machine Learning A-Z"](https://www.udemy.com/course/machinelearning/) on Udemy.
+This repository contains all the codes and datasets to learn Machine Learning Algorithms in Python and R. Credits to Kirill Eremenko and Hadelin de Ponteves from SuperDataScience who designed the course  ["Machine Learning A-Z"](https://www.udemy.com/course/machinelearning/) on Udemy. I will be adding detailed explaination for each algorithm soon.
 
 ### 1. [Data Preprocessing](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/1.%20Data%20Preprocessing)
 
