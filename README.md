@@ -32,3 +32,7 @@ This repository contains all the codes and datasets to learn Machine Learning Al
 
 - [Apriori](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning/1.%20Apriori)
 - [Elcat](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/5.%20Association%20Rule%20Learning/2.%20Eclat)
+
+### 6. [Reinforcement Learning](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/6.%20Reinforcement%20Learning)
+
+- [Upper Confidence Bound (UCB)](https://github.com/parekhjigar/Machine-Learning-A-Z-Python-and-R/tree/master/6.%20Reinforcement%20Learning/1.%20Upper%20Confidence%20Bound%20(UCB))
